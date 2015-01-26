@@ -1,7 +1,7 @@
 # Lab-assignment-
 
-Lab Assignment #2
+Lab Assignments for students in CSE 455 
 
-Ivonne Ramirez 
+#Ivonne Ramirez 
 
 1/25/15
